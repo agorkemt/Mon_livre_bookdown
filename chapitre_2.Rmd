@@ -1,0 +1,5 @@
+# Chapitre 2
+
+
+on n'a pas besoin d'editeur pour les chpitres apres le premier qui doit etre nome index
+
